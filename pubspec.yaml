@@ -4,9 +4,9 @@ description: >-
   math formulas, syntax-highlighted code blocks, task lists, tables, and
   Light/Dark themes. Styled after Notion / GitHub.
 version: 0.1.0
-homepage: https://github.com/fluttercommunity/elegant_markdown
-repository: https://github.com/fluttercommunity/elegant_markdown
-issue_tracker: https://github.com/fluttercommunity/elegant_markdown/issues
+homepage: https://github.com/hurricane-gathering/elegant_markdown
+repository: https://github.com/hurricane-gathering/elegant_markdown
+issue_tracker: https://github.com/hurricane-gathering/elegant_markdown/issues
 
 topics:
   - markdown
