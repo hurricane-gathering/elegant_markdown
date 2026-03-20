@@ -1,0 +1,37 @@
+name: elegant_markdown
+description: >-
+  A high-quality Flutter Markdown + LaTeX renderer. Supports GFM, inline/block
+  math formulas, syntax-highlighted code blocks, task lists, tables, and
+  Light/Dark themes. Styled after Notion / GitHub.
+version: 0.1.0
+homepage: https://github.com/fluttercommunity/elegant_markdown
+repository: https://github.com/fluttercommunity/elegant_markdown
+issue_tracker: https://github.com/fluttercommunity/elegant_markdown/issues
+
+topics:
+  - markdown
+  - latex
+  - math
+  - syntax-highlighting
+  - text-rendering
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_markdown: ^0.7.0
+  flutter_highlight: ^0.7.0
+  flutter_math_fork: ^0.7.0
+  url_launcher: ^6.0.0
+  markdown: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

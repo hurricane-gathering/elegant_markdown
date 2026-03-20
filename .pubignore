@@ -1,0 +1,25 @@
+# Platform-specific app directories (belong to demo app, not the package)
+android/
+ios/
+macos/
+windows/
+linux/
+web/
+
+# Build artifacts
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
